@@ -1,12 +1,12 @@
 # 组件列表
 
 - [Libraries](#libraries)
-- [JavaScript Components](#javascript-components)
-- [React Components](#react-components)
-- [jQuery Libraries](#jquery-libraries)
-- [jQuery Components](#jquery-components)
+- [JavaScript Components](#javascriptcomponents)
+- [React Components](#reactcomponents)
+- [jQuery Libraries](#jquerylibraries)
+- [jQuery Components](#jquerycomponents)
 - [CSS](#css)
-- [Development Tools](#development-tools)
+- [Development Tools](#developmenttools)
 - [Other](#other)
 
 ## Libraries
