@@ -90,7 +90,7 @@
 |bootstrap-switch|||
 |bootstrap-timepicker|||
 |bootstrap-timepicker|||
-|[datatables][datatables-github]| |[docs][datatables] [api][datatables-api]|
+|[datatables][datatables]| |[github][datatables-github] [api][datatables-api]|
 |datatables-bootstrap|||
 |datatables-colreorder|||
 |datatables-scroller|||
@@ -106,6 +106,10 @@
 |x-editable|||
 ||||
 
+[datatables]: http://www.datatables.net/
+[datatables-github]: https://github.com/DataTables/DataTables
+[datatables-examples]: http://www.datatables.net/examples/index
+[datatables-api]: http://www.datatables.net/reference/api/
 
 ## CSS
 
