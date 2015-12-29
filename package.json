@@ -72,7 +72,7 @@
     "gulp": "^3.9.0",
     "history": "1.13.x",
     "node-sass": "3.4.2",
-    "react-component-tools": "0.3.0",
+    "react-component-tools": "0.5.3",
     "react-router": "^1.0.2",
     "webpack-dev-server": "1.12.1"
   }
